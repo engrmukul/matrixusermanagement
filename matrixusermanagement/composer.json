@@ -1,0 +1,17 @@
+{
+    "name": "mukul/matrixusermanagement",
+    "description": "a multidimensional matrix user management package for laravel framework.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mizanur Rahaman",
+            "email": "mizan@ticonsys.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Mukul\\Matrixusermanagement\\": "src/"
+        }
+    }
+}
